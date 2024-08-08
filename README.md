@@ -1,7 +1,7 @@
 # 208914-Bounding-Boxes-Human-Body-Attributes-Data-in-Surveillance-Scenes
 ## Description
 208,914 Bounding Boxes – Human Body Attributes Data in Surveillance Scenes. The data includes indoor (shopping mall) and outdoor (street, the gate of shopping mall and square) scenes. The data includes males and females and the age distribution is from children to the elderly. In this dataset, the rectangular bounding boxes and 19 attributes of human body were annotated. The data can be used for person attributes recognition.
-For more details, please refer to the link: https://www.nexdata.ai/dataset/966?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/966?source=Github
 
 # Specifications
 
